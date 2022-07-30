@@ -1,6 +1,7 @@
 # Generative NFTs: Hexagons
 
-image.png
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/100027170/181918877-7d751adb-603e-4697-ac06-8cadeeb373ca.png">
+
 
 ## Information
 

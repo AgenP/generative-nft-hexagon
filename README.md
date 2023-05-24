@@ -7,7 +7,7 @@ Test OpenSea link: https://testnets.opensea.io/collection/random-svgnft-v4
 
 ## Information
 
-This is an implementation from a follow along on-chain NFT tutorial
+This is an alteration from a follow along on-chain NFT tutorial
 Link: https://www.youtube.com/watch?v=9oERTH9Bkw0&t=229s&ab_channel=PatrickCollins
 
 - My alteration: Deploying SVGs fully on-chain (OpenSea testnet compatible) with a randomised colourway + a randomised attribute, using the chainlink VRF
